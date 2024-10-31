@@ -6,4 +6,4 @@ The theme is intended to be used for presentations related to Estonian Universit
 
 ## Demonstration
 
-See [here](https://www.lillemets.ee/remark-emu) for demo.
+See [here](https://www.oij.ee/remark-emu) for demo.
